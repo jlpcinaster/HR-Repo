@@ -8,3 +8,4 @@ software products:
 	- Microsoft
 	- Git & GitHub
 	- Java
+	- Mysql
