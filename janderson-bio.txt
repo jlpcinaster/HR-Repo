@@ -7,3 +7,4 @@ Experienced software instructor with deep knowledge of the following
 software products:
 	- Microsoft
 	- Git & GitHub
+	- Java
